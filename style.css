@@ -19,7 +19,7 @@ body {
   width: 75px;
   height: 75px;
   object-fit: cover;
-  border-radius: 50% /* Trik untuk membuat gambar persegi menjadi lingkaran sempurna */
+  border-radius: 50%; /* Trik untuk membuat gambar persegi menjadi lingkaran sempurna */
 }
 
 tombol-instagram {
